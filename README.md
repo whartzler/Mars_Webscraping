@@ -8,6 +8,10 @@ Part 2 consisted of pulling data from https://data-class-mars-challenge.s3.amazo
 Plot 1 - Concluded on average the coldest tempature on Mars is in its third Month and the warmest month is the eight month.
 
 Plot 2 - Verified the atmospheric pressure on Mars on average is lowest in the sixth month and highest in the ninth.
+# Plot the average temperature by month
+min_temp_avg.sort_values().plot(kind='bar')
+plt.ylabel('Min Temp in Celcius per Martian Day')
+plt.xlabel('Month')
 
 Plot 3 - The distance from peak to peak on Plot 3 is roughly 1425-750 Z(as shown on the graph), or 675 days. After reviewing on the internet 687 earth days are equal to 1 Mars year.
 
