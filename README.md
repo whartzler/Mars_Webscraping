@@ -17,7 +17,11 @@ After compiling the data from https://data-class-mars-challenge.s3.amazonaws.com
 
 ### Tools
 Beautiful Soup - To scrape data from websites
+
 Splinter - to establish and executable path within Jupyter
+
 Jupyter Notebook
+
 Matplotlib
+
 Pandas
