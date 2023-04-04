@@ -13,7 +13,7 @@ Plot 3 - The distance from peak to peak on Plot 3 is roughly 1425-750 Z(as shown
 
 ### Proposed Changes
 
-After compiling the data from [AWS Warehouse](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) using beautiful soup it would be a more effective and quicker to read the dataframe using Pandas,  we could skip steps 2-3 as the data would already be cleaned and in a dataframe.
+After compiling the data from the [AWS Warehouse](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) using beautiful soup it would be a more effective and quicker to read the dataframe using Pandas,  we could skip steps 2-3 as the data would already be cleaned and in a dataframe.
 
 ### Tools
 
