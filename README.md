@@ -2,8 +2,12 @@
 
 ## Overview
 Utilizing webscraping tools, scrapped and analyzed information from two websites.  This project consisted of two parts.
-Part 1 pulled and imported titles and previews of news articles from [Red Planet Science](https://redplanetscience.com/), cleaning the data and importing into a list.  
-Part 2 consisted of pulling data from a [AWS Warehouse](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) scrapping and analyzing the data.
+
+Part 1: Scraped Titles and Preview Text from [Red Planet Science](https://redplanetscience.com/), cleaning the data and importing into a list.  
+Part 1 [Notebook](https://github.com/whartzler/Mars_Webscraping/blob/main/part_1_mars_news.ipynb)
+
+Part 2 Scrapped and analyzed Mars Weather Data from am [AWS Warehouse](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html).
+Part 2 [Notebook](https://github.com/whartzler/Mars_Webscraping/blob/main/part_2_mars_weather.ipynb)
 
 ## Summary Part 2
 Plot 1 - Concluded on average the coldest tempature on Mars is in its third Month and the warmest month is the eight month.
