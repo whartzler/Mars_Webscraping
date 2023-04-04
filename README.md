@@ -7,10 +7,15 @@ Part 2 consisted of pulling data from a [AWS Warehouse](https://data-class-mars-
 
 ## Summary Part 2
 Plot 1 - Concluded on average the coldest tempature on Mars is in its third Month and the warmest month is the eight month.
+![image](https://user-images.githubusercontent.com/109490755/229853492-276d8b44-1c8e-4af6-a0a0-6e2400c0a7e3.png)
 
 Plot 2 - Verified the atmospheric pressure on Mars on average is lowest in the sixth month and highest in the ninth.
+![image](https://user-images.githubusercontent.com/109490755/229853359-044292eb-84d9-4eab-9d6a-288555600e0a.png)
 
 Plot 3 - The distance from peak to peak on Plot 3 is roughly 1425-750 Z(as shown on the graph), or 675 days. After reviewing on the internet 687 earth days are equal to 1 Mars year.
+![image](https://user-images.githubusercontent.com/109490755/229853296-1dd36496-ce7d-41ef-a666-abb92131a38b.png)
+
+
 
 ### Proposed Changes
 
