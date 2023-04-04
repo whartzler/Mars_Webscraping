@@ -1,7 +1,8 @@
 # Mars_Webscraping
 
 ## Overview
-Utilizing webscraping tools, scrapped and analyzed information from two webistes.  This project consisted of two parts Part 1 pulled and imported titles and previews of news articles from Red [Planet Science](https://redplanetscience.com/), cleaning the data and importing into a list.  
+Utilizing webscraping tools, scrapped and analyzed information from two websites.  This project consisted of two parts.
+Part 1 pulled and imported titles and previews of news articles from [Red Planet Science](https://redplanetscience.com/), cleaning the data and importing into a list.  
 Part 2 consisted of pulling data from a [AWS Warehouse](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) scrapping and analyzing the data.
 
 ## Summary Part 2
