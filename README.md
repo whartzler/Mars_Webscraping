@@ -6,7 +6,7 @@ Utilizing webscraping tools, scrapped and analyzed information from two websites
 Part 1: Scraped Titles and Preview Text from [Red Planet Science](https://redplanetscience.com/), cleaning the data and importing into a list.  
 Part 1 [Notebook](https://github.com/whartzler/Mars_Webscraping/blob/main/part_1_mars_news.ipynb)
 
-Part 2 Scrapped and analyzed Mars Weather Data from am [AWS Warehouse](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html).
+Part 2 Scrapped and analyzed Mars Weather Data from an [AWS Warehouse](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) with the goal of finding the coldest Month on Mars, Average Atmospheric Pressure by Month, and Comparing how many Earth days is 1 Mars Year.  
 Part 2 [Notebook](https://github.com/whartzler/Mars_Webscraping/blob/main/part_2_mars_weather.ipynb)
 
 ## Summary Part 2
